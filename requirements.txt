@@ -1,0 +1,27 @@
+# Cabinet Dentaire
+
+Application de gestion de clinique dentaire développée en Python avec Tkinter et SQLite.
+
+## Fonctionnalités
+- Dashboard avec statistiques
+- Gestion des patients
+- Gestion des rendez-vous
+- Consultations médicales
+- Traitements
+- Odontogramme / dents
+- Paiements
+- Factures
+- Rapports
+- Paramètres du cabinet
+- Base de données SQLite créée automatiquement
+- Système de migration des colonnes de base de données
+
+## Lancement
+python main.py
+
+## Dépendances
+- Python 3.10+
+- Tkinter
+- SQLite3
+
+Les dépendances standard de Python sont suffisantes.
